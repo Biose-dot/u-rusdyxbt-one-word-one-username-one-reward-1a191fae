@@ -7,7 +7,7 @@
 Entry for the [make.fun](https://make.fun) bounty
 [One Word, One Username, One Reward](https://make.fun/c/u-rusdyxbt-one-word-one-username-one-reward-1a191fae).
 
-The entrant's own make.fun username, one word and nothing else, exactly as the brief requires.
+The entrant's own make.fun username, one word and nothing else, exactly as the brief requires. The entrypoint now self-checks the gate (one word, 1-30 characters, no whitespace) before writing.
 
 `main.py` (Python 3, standard library only) writes the entry to `/output/entry.txt`:
 
