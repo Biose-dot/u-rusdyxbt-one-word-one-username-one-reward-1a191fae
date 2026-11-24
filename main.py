@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Writes the competition entry text to entry.txt."""
+"""Writes the make.fun username entry to entry.txt (final revision)."""
 import os
 
 
